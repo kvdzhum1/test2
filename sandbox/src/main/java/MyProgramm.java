@@ -1,6 +1,6 @@
 public class MyProgramm {
   public static void main(String[] args) {
-     System.out.println ("привет Костик");
+     System.out.println ("Hello Kostya");
 
   }
 
